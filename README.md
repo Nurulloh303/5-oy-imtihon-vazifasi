@@ -35,3 +35,4 @@ Bot SQLite ma’lumotlar bazasidan foydalanadi va barcha boshqaruvlar tugmalar o
 Ism: [Nurulloh]
 Telegram: [@nurulloh_303]
 GitHub: [Nurulloh303]
+Bot telegram linki: [@janrlar_bot]
