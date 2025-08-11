@@ -1,0 +1,4 @@
+# config.py
+TOKEN = "8260803491:AAFFH-k82AGVmuscRL40msV4iETuhrzUYTc"
+ADMIN_ID = 6895505562
+DB_NAME = "library.db"
